@@ -1,9 +1,8 @@
-# docker-webssh
-Run webssh in docker
+# WebSSH Container
 
-## [docker](http://www.docker.com)
-Don't know? I am pretty sure this project is not what you are looking for. Just skip it. 
-Honestly, I am also studying it, can not say much but really a cool tool you will like. Don't hesitate to try it!
+[![Container Build](https://github.com/robertzaage/WebSSH-Container/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/robertzaage/WebSSH-Container/actions/workflows/docker-publish.yml)
+
+Run webssh in a container.
 
 ## [webssh](https://github.com/huashengdun/webssh)
 A simple web SSH client. Written in Python.
